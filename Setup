@@ -1,0 +1,4 @@
+npm create vite@latest github-explorer --template react
+cd github-explorer
+npm install axios chart.js react-chartjs-2 tailwindcss
+npx tailwindcss init -p
